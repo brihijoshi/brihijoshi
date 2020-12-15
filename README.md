@@ -6,11 +6,11 @@ I am Brihi! This profile is a hub for some research and development work that I 
 
 Quick Facts - 
 
-- 🔭 I’m currently working on: analysing COVID trends on Social Media
-- 🌱 I’m currently learning: more about language models, and how to infer from them
+- 🔭 I’m currently working on: multilingual text similarity from various granularity perspectives (NLP)
+- 🌱 I’m currently learning: more about language models, and how to 'probe' them for various tasks
 - 👯 I’m looking to collaborate on: music information retreival problems
-- 🤔 I’m looking for help with: time management!
+- 🤔 I’m looking for help with: time management haha!
 - 💬 Ask me about: how to work with large amounts of Twitter data, and draw inferences from that!
-- 📫 How to reach me: email!
+- 📫 How to reach me: email
 - 😄 Pronouns: she/her
 
